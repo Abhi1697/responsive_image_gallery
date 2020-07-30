@@ -62,7 +62,7 @@ header{
 	margin-top: 10px; 
 	width: 100%;
 	height: auto;
-	background-color: #DCDCDC;
+	background: linear-gradient(to bottom, grey, white);
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
